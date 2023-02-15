@@ -6,9 +6,9 @@ You've seen [karpathy/minGPT](https://github.com/karpathy/mingpt).
 
 You've even seen [karpathy/nanoGPT](https://github.com/karpathy/nanogpt)!
 
-But have you seen [picoGPT](https://github.com/jaymody/picoGPT)??!?
+But have you seen [picoGPT](https://github.com/kunalkashyap855/gpt2)??!?
 
-`picoGPT` is an unnecessarily tiny and minimal implementation of [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) in plain [NumPy](https://numpy.org). The entire forward pass code is [40 lines of code](https://github.com/jaymody/picoGPT/blob/main/gpt2_pico.py#L3-L41). I wrote a related [blog post](https://jaykmody.com/blog/gpt-from-scratch/) for picoGPT.
+`picoGPT` is an unnecessarily tiny and minimal implementation of [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) in plain [NumPy](https://numpy.org). You can read the [original blog post](https://jaykmody.com/blog/gpt-from-scratch/?utm_source=tldrnewsletter#what-is-a-gpt%3F) for this implementation by [Jay Mody](https://github.com/jaymody).
 
 picoGPT features:
 * Fast? ❌ Nah, picoGPT is megaSLOW 🐌

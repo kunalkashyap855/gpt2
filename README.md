@@ -1,4 +1,4 @@
-# PicoGPT
+# PicoGPT-2
 
 You've seen [openai/gpt-2](https://github.com/openai/gpt-2).
 
